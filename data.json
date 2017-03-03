@@ -1,0 +1,68 @@
+[
+  {
+    "location": "上海",
+    "monthlySalary": "月薪：4001-6000元/月",
+    "experience": "经验：不限",
+    "education": "学历：博士",
+    "date": "2017-03-02",
+    "companyName": "上海那啥网络科技有限公司",
+    "industry": "行业：IT|通信|电子|互联网",
+    "property": "性质：民营",
+    "scale": "规模：20人以下"
+  },
+  {
+    "location": "广州 ",
+    "monthlySalary": "月薪：6001-8000元/月",
+    "experience": "经验：不限",
+    "education": "学历：不限",
+    "date": "2017-03-03",
+    "companyName": "深圳市创客家科技有限公司",
+    "industry": "行业：服务业",
+    "property": "性质：民营",
+    "scale": "规模：20人以下"
+  },
+  {
+    "location": "北京",
+    "monthlySalary": "月薪：6001-8000元/月",
+    "experience": "经验：不限",
+    "education": "学历：硕士",
+    "date": "2017-03-03",
+    "companyName": "深圳市创客家科技有限公司",
+    "industry": "行业：服务业",
+    "property": "性质：民营",
+    "scale": "规模：20人以下"
+  },
+  {
+    "location": "北京",
+    "monthlySalary": "月薪：6001-8000元/月",
+    "experience": "经验：1-2年",
+    "education": "学历：大专",
+    "date": "2017-02-09",
+    "companyName": "太平人寿保险有限公司北京分公司海淀之公司",
+    "industry": "行业：商业服务",
+    "property": "性质：国企",
+    "scale": "规模：2000人以上"
+  },
+  {
+    "location": "北京",
+    "monthlySalary": "月薪：15000-25000元/月",
+    "experience": "经验：1-2年",
+    "education": "学历：本科",
+    "date": "2017-01-18",
+    "companyName": "北京闪银信息技术有限公司",
+    "industry": "行业：IT|通信|电子|互联网",
+    "property": "性质：其它",
+    "scale": "规模：100-499人"
+  },
+  {
+    "location": "深圳",
+    "monthlySalary": "月薪：2001-4000元/月",
+    "experience": "经验：不限",
+    "education": "学历：本科",
+    "date": "2017-03-03",
+    "companyName": "深圳市创客家科技有限公司",
+    "industry": "行业：服务业",
+    "property": "性质：民营",
+    "scale": "规模：20人以下"
+  }
+]
