@@ -1,0 +1,15 @@
+{
+  "name": "although-recruitment-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "waka",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "iconv-lite": "^0.4.15"
+  }
+}
